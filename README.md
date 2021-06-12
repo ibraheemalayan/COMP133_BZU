@@ -1,7 +1,7 @@
 # COMP133 | COMPUTER AND PROGRAMMING 
 ## (Spring 2021) BZU
 
-![Image of Yaktocat](https://github.com/ibraheemalayan/COMP133_BZU/Final_Project/screenshot.png)
+![Image of Yaktocat](https://github.com/ibraheemalayan/COMP133_BZU/Final_Project/My_Final_Project/screenshot.png)
 
 -----------------------------------------------
 * This repository contains Labratory Questions, Assignments Soultions and some exams in the (COMP133 | COMPUTER AND PROGRAMMING) course at birzeit university (BZU)
