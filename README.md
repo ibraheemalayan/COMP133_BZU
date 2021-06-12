@@ -16,3 +16,6 @@ Programming in one of high level language basically (C); Basic structures of pro
 
 ## Course Instuctor
 [Hafez Bargouhti](https://www.birzeit.edu/en/faculty-staff/hafez-barghouthi)
+
+## Author
+[Ibraheem Alyan](https://www.ibraheemalyan.dev/), contact@ibraheemalyan.dev
