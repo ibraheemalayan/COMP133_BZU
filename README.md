@@ -12,10 +12,10 @@
 ## Resources
 
 ### Course Outline
-[Outline](https://github.com/ibraheemalayan/COMP133_BZU/raw/main/)
+[Outline](https://github.com/ibraheemalayan/COMP133_BZU/raw/main/Resources/Comp133_Course_Outline_2021.pdf)
 
 ### Labratory Manual Book
-[Manual Book PDF](https://github.com/ibraheemalayan/COMP133_BZU/raw/main/)
+[Manual Book PDF](https://github.com/ibraheemalayan/COMP133_BZU/raw/main/Resources/Comp133_Lab_Manual.pdf)
 
 ## Bio
 
