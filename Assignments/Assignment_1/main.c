@@ -32,6 +32,11 @@ void magic_numbers(int left, int right, int digit){
         // to skip the (sum >= rem) comparison for the first digit if it was 0 since the sum also will be 0 and that leads to a false negative
         if ( temp % 10 == 0 ){
             temp = temp / 10;
+            // if zero is skiped and it is the prohibited digit
+            if( digit == 0 ){
+                temp = 0; // to skip the loop
+                is_magical = 0; // mark as not magical
+            } 
         }
 
         while (temp > 0){
