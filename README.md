@@ -1,6 +1,8 @@
 # COMP133 | COMPUTER AND PROGRAMMING 
 ## (Spring 2021) BZU
-
+    
+    
+## Screenshot of the final project
 ![Screenshot of final project](https://github.com/ibraheemalayan/COMP133_BZU/raw/main/Final_Project/Screenshot.png)
 
 -----------------------------------------------
