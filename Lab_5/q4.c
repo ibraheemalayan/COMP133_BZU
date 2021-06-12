@@ -1,0 +1,1 @@
+Lab 5:::: Q 4 ::: output will be the numbers from 1 to 25 inclusive each on a separate line
