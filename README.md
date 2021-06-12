@@ -6,17 +6,28 @@
 ![Screenshot of final project](https://github.com/ibraheemalayan/COMP133_BZU/raw/main/Final_Project/My_Final_Project/Screenshot.png)
 
 -----------------------------------------------
-* This repository contains Labratory Questions, Assignments Soultions and some exams in the (COMP133 | COMPUTER AND PROGRAMMING) course at birzeit university (BZU)
+* This repository contains Labratory Questions, Assignments Soultions and some exams in the [COMP133 | COMPUTER AND PROGRAMMING](https://www.birzeit.edu/en/content/comp133-computer-and-programming) course at birzeit university (BZU)
 -----------------------------------------------
 
-## Course Description
+## Resources
+
+### Course Outline
+[Outline](https://github.com/ibraheemalayan/COMP133_BZU/raw/main/)
+
+### Labratory Manual Book
+[Manual Book PDF](https://github.com/ibraheemalayan/COMP133_BZU/raw/main/)
+
+## Bio
+
+### Course Description
 Programming in one of high level language basically (C); Basic structures of programming tools: language elements (variable names and data types), control statements, functions, arrays, pointers, strings memory management, file processing, and structure definition and applications.  
 (3 credit hours: 2 lectures + three hours Lab.)
 
-
-## Course Instuctor
+### Course Instuctor
 [Hafez Bargouhti](https://www.birzeit.edu/en/faculty-staff/hafez-barghouthi)
 
-## Author
+### Author
 Website: [Ibraheem Alyan](https://www.ibraheemalyan.dev/)    
 Email: contact@ibraheemalyan.dev
+
+## Star the repository ⭐ if it was useful 🙃    
