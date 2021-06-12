@@ -7,6 +7,7 @@
 
 -----------------------------------------------
 * This repository contains Labratory Questions, Assignments Soultions and some exams in the [COMP133 | COMPUTER AND PROGRAMMING](https://www.birzeit.edu/en/content/comp133-computer-and-programming) course at birzeit university (BZU)
+* **Note that some files have mistyped names and some question numbers are not right**
 -----------------------------------------------
 
 ## Resources
