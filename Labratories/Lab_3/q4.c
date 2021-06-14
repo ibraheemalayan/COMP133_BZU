@@ -6,6 +6,8 @@ double round(double x){
 
     double d = (int) ( (x * 100) + 0.5 )  / 100.0;
 
+    printf("The Rounded is : %lf\n", d);
+
     return d;
 }
 
@@ -17,9 +19,7 @@ int main(){
     
     scanf("%lf", &x);
 
-    double d = round(x);
-
-    printf("The Rounded is : %lf\n", d);
+    round(x);
 
     return 0;
 }

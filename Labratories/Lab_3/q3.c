@@ -17,7 +17,7 @@ double get_vol(double r, double h){
 
 int main(){
     double r, h;
-    // File is written like : (x1, y1), (x2, y2)
+
     printf("Enter r,h: ");
     scanf("%lf,%lf", &r, &h);
 
